@@ -1,0 +1,2 @@
+https://www.codepolitan.com/belajar-menggunakan-database-postgresql-di-ubuntu-1604-59f6e0c63f5e4
+https://jagongoding.com/web/laravel/konfigurasi-laravel-dan-postgresql-beserta-contoh-migration/
